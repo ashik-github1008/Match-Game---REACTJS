@@ -1,0 +1,17 @@
+.thumbnail-btn {
+  background-color: transparent;
+  border: none;
+}
+
+.thumbnail-btn:focus {
+  outline: none;
+  cursor: pointer;
+}
+
+.thumbnail-img {
+  width: 98px;
+}
+
+.thumbnail-card {
+  margin-right: 6px;
+}

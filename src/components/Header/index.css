@@ -1,0 +1,57 @@
+.nav-container {
+  background-color: #2c0e3a;
+  padding: 34px;
+  padding-left: 52px;
+  padding-right: 52px;
+}
+
+.nav-content {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  list-style-type: none;
+  padding-left: 0px;
+}
+
+.website-logo {
+  width: 184px;
+  /* height:145px; */
+}
+
+.score-and-time-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.score-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.time-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.timer-img {
+  width: 25px;
+  height: 25px;
+}
+
+.score-text {
+  color: #ffffff;
+  font-size: 20px;
+}
+
+.score-count {
+  color: #fec653;
+  font-weight: 500;
+  font-size: 20px;
+}
+
+.time {
+  color: #fec653;
+  font-weight: 500;
+  font-size: 20px;
+}
